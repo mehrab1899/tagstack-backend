@@ -10,8 +10,9 @@ build/
 
 # Prisma
 prisma/.env
-prisma/migrations/*/README.md
-prisma/generated/
+prisma/dev.db
+prisma/dev.db-journal
+prisma/migrations/
 
 # Logs
 npm-debug.log*
